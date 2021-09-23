@@ -1,4 +1,4 @@
-# Table of Contents
+# **Table of Contents**
 
 *Projects that im working on
 
