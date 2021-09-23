@@ -1,8 +1,8 @@
 # Table of Contents
--Projects that im working on
--Items that require help
--Data visualization things
--Potential Repository ideas
+  -Projects that im working on
+  -Items that require help
+  -Data visualization things
+  -Potential Repository ideas
 
 # ReadMe file
 includes some introduction information about me 
