@@ -16,6 +16,7 @@ This project includes my formal introduction to the networking webpage of Github
 
 # hello-world
 [This is my introduction repository to GitHub, Hello!]
-I am just starting to learn code such as python!
+
+-I am just starting to learn code such as python!
 
 
