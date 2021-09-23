@@ -14,10 +14,3 @@ This project includes my formal introduction to the networking webpage of Github
 [This is my introduction repository to GitHub, Hello!]
 I am just starting to learn code such as python!
 
-# How to run a program
-Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
